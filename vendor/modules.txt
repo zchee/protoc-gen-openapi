@@ -1,0 +1,14 @@
+# github.com/getkin/kin-openapi v0.2.1-0.20190729060947-8785b416cb32
+github.com/getkin/kin-openapi/jsoninfo
+github.com/getkin/kin-openapi/openapi3
+# github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
+github.com/ghodss/yaml
+# github.com/golang/protobuf v1.3.2
+github.com/golang/protobuf/proto
+github.com/golang/protobuf/protoc-gen-go/descriptor
+github.com/golang/protobuf/protoc-gen-go/plugin
+# gopkg.in/yaml.v2 v2.2.2
+gopkg.in/yaml.v2
+# istio.io/tools v0.0.0-20190906005902-3ac7ab40db8a
+istio.io/tools/pkg/protocgen
+istio.io/tools/pkg/protomodel
